@@ -1,0 +1,5 @@
+package com.zentex.charted
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
